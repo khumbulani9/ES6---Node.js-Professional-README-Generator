@@ -1,5 +1,7 @@
-const inquirer = reuire("inquirer");
-const fs = reuire('fs');
+//Including packages needed for this application
+const fs = require("require");
+const inquirer = require("inquirer");
+const path = require("path");
 const util = require('util')
 
 const generateMarkdown = require("./utils/generateMarkdown");
@@ -39,7 +41,7 @@ name: "License"
   name: "Contributing"
 }, {
   type:"input"
-  message:"Contact information for inquiries.",
+  message:"Contact information for inquiries",
   name:"Questions"
 }, {
   type:"input",
