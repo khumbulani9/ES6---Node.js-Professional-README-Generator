@@ -1,14 +1,14 @@
 //Including packages needed for this application
-const fs = require("require");
+const fs = require("fs");
 const inquirer = require("inquirer");
 const path = require("path");
-const util = require('util')
+
+//
 
 const generateMarkdown = require("./utils/generateMarkdown");
-
+//string,number, array, object, boolean, function
 // array of questions for user
 const questions = [{
-  type: "input",
   message: "What is the Title of the project",
   name: "Title" 
 }, {
@@ -39,12 +39,17 @@ name: "License"
   type:"input",
   message:"Who contributed to the project",
   name: "Contributing"
-}, {
-  type:"input"
+}, 
+// string: '', "", ``
+// number: 0 234 12.02934
+// array : [element, element]
+// object: {key: value, key: value, key: value, key: value}
+// boolean: true/false
+{
+  type:"input",
   message:"Contact information for inquiries",
   name:"Questions"
 }, {
-  type:"input",
   message:"What is your Github name?",
   name:"Username"
 }, {
@@ -54,7 +59,7 @@ name: "License"
 },
 
 ];
-
+// console.log(questions)
 // function to write README file
 function writeToFile(fileName, data) {
 
@@ -72,10 +77,11 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-  inquirer.createPromptModule(questions)
+  inquirer.prompt(questions)
   .then(function(data) {
-    writeToFile("README.md", generatorMarkdown(data));
+
     console.log(data)
+    writeToFile"README.md", (data);
   })
 
 }
