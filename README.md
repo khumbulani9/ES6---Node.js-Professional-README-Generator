@@ -8,6 +8,8 @@ By the use of inquirer (node package manager) this application takes the user th
 
 ## Live Screen Recording of Application Functionality 
 
+()
+
 ## Screenshots
 ![Screenshot1-week-9-challenge](![Screenshot 2024-02-19 180712](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/7d64a05d-0a80-40fa-9887-4261040dd0f8)
 ![Screenshot1-week-9-challenge]("![Screenshot 2024-02-19 181536](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/f7e126db-4b2f-4ed8-bbba-09ef9f2ffe3b)
