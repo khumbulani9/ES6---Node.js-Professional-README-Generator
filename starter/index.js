@@ -1,13 +1,19 @@
-//Including packages needed for this application
-const fs = require("fs");
+// Inquirer (node package manager) import
 const inquirer = require("inquirer");
-const path = require("path");
+
+// File system module (node package manager) import
+const fs = require("fs");
+
+// This function writes the users README file using user input
+function writeToFile(fileName, data) 
+  var fileText = "";
 
 //
 
 const generateMarkdown = require("./utils/generateMarkdown");
 //string,number, array, object, boolean, function
 // array of questions for user
+
 const questions = [{
   message: "What is the Title of the project",
   name: "Title" 
@@ -40,11 +46,7 @@ name: "License"
   message:"Who contributed to the project",
   name: "Contributing"
 }, 
-// string: '', "", ``
-// number: 0 234 12.02934
-// array : [element, element]
-// object: {key: value, key: value, key: value, key: value}
-// boolean: true/false
+
 {
   type:"input",
   message:"Contact information for inquiries",
@@ -59,7 +61,7 @@ name: "License"
 },
 
 ];
-// console.log(questions)
+
 // function to write README file
 function writeToFile(fileName, data) {
 
