@@ -10,9 +10,12 @@ By the use of inquirer (node package manager) this application takes the user th
 
 ## Screenshots
 ![Screenshot1-week-9-challenge](![Screenshot 2024-02-19 180712](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/7d64a05d-0a80-40fa-9887-4261040dd0f8)
-![Screenshot1-week-9-challenge]("C:\Users\MKJubane\OneDrive\khumbulani m CV\Pictures\Screenshots\Screenshot 2024-02-19 181536.png")
-![Screenshot1-week-9-challenge]("C:\Users\MKJubane\OneDrive\khumbulani m CV\Pictures\Screenshots\Screenshot 2024-02-19 181655.png")
-![Screenshot1-week-9-challenge]("C:\Users\MKJubane\OneDrive\khumbulani m CV\Pictures\Screenshots\Screenshot 2024-02-19 181826.png")
+![Screenshot1-week-9-challenge]("![Screenshot 2024-02-19 181536](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/f7e126db-4b2f-4ed8-bbba-09ef9f2ffe3b)
+")
+![Screenshot1-week-9-challenge]("![Screenshot 2024-02-19 181655](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/f9beb7d6-71f0-42cf-8787-a66eb7d684b3)
+")
+![Screenshot1-week-9-challenge](![Screenshot 2024-02-19 181852](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/ac66b5bd-e8ac-42c1-a784-55b5414aaff1)
+"")
 
 ## Technologues Used
 
@@ -24,7 +27,7 @@ Clone the repo: git clone
 
 Open in VS Code. If you do not have VS code you must install it.
 
-Using the terminal, install node.js v16. If you have homebrew, the command should look like the following (brew install node@16), however this may vary and the documentation should be consulted.
+Using the terminal, install node.js v16. 
 
 Once node.js v16 is installed, in the terminal, utilize the command npm init -y to initialize and create a package where project files will be stored.
 
@@ -32,10 +35,7 @@ Next, use the terminal to run the command npm i inquirer@8.2.4 to install v8.2.4
 
 To run the application, within the terminal, type the command node index.js.
 
-## Credits
 
-## Features 
+## Contact-link URL to GitHub repository
 
-## How to contribute 
-
-## 
+https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/edit/main/README.md 
