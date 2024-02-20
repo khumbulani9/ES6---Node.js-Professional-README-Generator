@@ -16,7 +16,7 @@ By the use of inquirer (node package manager) this application takes the user th
 ("![Screenshot 2024-02-19 181536](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/f7e126db-4b2f-4ed8-bbba-09ef9f2ffe3b)
 ("![Screenshot 2024-02-19 181655](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/f9beb7d6-71f0-42cf-8787-a66eb7d684b3)
 
-(Screenshot 2024-02-19 181852](https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/ac66b5bd-e8ac-42c1-a784-55b5414aaff1)
+(https://github.com/khumbulani9/ES6-Node.js-Professional-README-Generator/assets/146132836/ac66b5bd-e8ac-42c1-a784-55b5414aaff1)
 
 
 ## Technologues Used
