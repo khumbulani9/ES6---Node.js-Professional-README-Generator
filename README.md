@@ -8,7 +8,7 @@ By the use of inquirer (node package manager) this application takes the user th
 
 ## Live Screen Recording of Application Functionality 
 
-![Screen-Recording](C:\Users\MKJubane\Assignment\ES6-Node.js-Professional-README-Generator\starter\REaDAME-Generator.mp4)
+(https://drive.google.com/file/d/1mgV65_9nqOF7iwo83F-RZEGkW8_FC4uU/view)
  
 
 ## Screenshots
